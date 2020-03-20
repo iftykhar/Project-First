@@ -27,6 +27,7 @@
 		}
 		//echo exit();
 		//$conn->close();
+		//new commect
         ?>  
         <script>
 		window.location="index.php";
